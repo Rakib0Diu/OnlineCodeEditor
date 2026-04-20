@@ -21,6 +21,7 @@ This is a fully self-contained, browser-based code editor designed for classroom
 - **Keyboard shortcuts** for efficient workflow
 - **Validation panel** for basic JS assignment checks
 - **Accessibility-friendly UI** with ARIA and keyboard navigation
+- **Login/Registration** for basic Auth
 
 Use it as an embeddable learning tool, a homework sandbox, or a scaffold for interactive teaching.
 
