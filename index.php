@@ -128,7 +128,7 @@
 
   </main>
 
-  <div class="footer">© 2025 Boundless Programming — All rights reserved</div>
+  <div class="footer">© 2026 Boundless Programming — All rights reserved</div>
 
   <!-- External libraries: Ace only -->
   <script
