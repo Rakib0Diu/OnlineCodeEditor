@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/project-academic%20tool-yellow)](#who-is-this-for)
 
 > **A portable, zero-setup code editor for teaching and learning web development.**  
-> Write HTML, CSS, and JavaScript with real-time preview, validation, and save/load features — all in one file. No servers. No logins. Just code ✨.
+> Write HTML, CSS, and JavaScript with real-time preview, validation, and save/load features — all in one file. No servers. optional logins. Just code ✨.
 
 ---
 
